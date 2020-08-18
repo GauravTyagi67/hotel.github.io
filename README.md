@@ -1,2 +1,2 @@
-# hotelmanagementsystem.github.io
+# hotel.github.io
 This is hotel management system in room booking
